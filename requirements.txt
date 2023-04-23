@@ -2,7 +2,7 @@ Flask==0.12.1
 Flask-SQLAlchemy==2.2
 Flask-Migrate==2.0.3
 Flask-SSE==0.2.1
-celery==4.0.2
+celery==5.2.2
 PyMySQL==0.7.11
 gunicorn==19.7.1
 msgpack-python==0.4.8
